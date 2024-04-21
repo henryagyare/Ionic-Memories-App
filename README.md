@@ -1,7 +1,7 @@
-### Ionic Memories App
+### Memoria: A Cross-Platform Memories App
 
 **1. Introduction:**
-The Memories App is a mobile application aimed at enabling users to capture and store their day-to-day activities or memories effortlessly. Developed using Vue.js, Ionic, and Capacitor, the app seamlessly combines the power of web development with native mobile capabilities.
+Memoria is a mobile application aimed at enabling users to capture and store their day-to-day activities or memories effortlessly. Developed using Vue.js, Ionic, and Capacitor, the app seamlessly combines the power of web development with native mobile capabilities.
 
 **2. Project Overview:**
 The primary goal of the project was to create a mobile application that provides users with a simple yet effective platform to document their memories. The app allows users to add text entries along with images captured from their device's camera.
